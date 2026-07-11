@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="DemoImg/MedXina.jpg"
-       width="90"
-       align="left"
-       style="margin-top:200px;">
+<br>
 
+<img src="DemoImg/MedXina.jpg"
+     width="90"
+     align="left">
 # MRI Learning Studio
 
 Interactive MRI Physics Simulator for Medical Education
