@@ -1,16 +1,18 @@
 <table>
 <tr>
 
-<td width="110" valign="middle">
-<img src="DemoImg/MedXina.jpg" width="90">
+<td width="120" valign="middle">
+    <img src="DemoImg/MedXina.jpg" width="95">
 </td>
 
-<td>
+<td valign="middle">
 
-<h1 style="margin:0;">MRI Learning Studio</h1>
+<h1 style="margin:0;">
+MRI Learning Studio
+</h1>
 
-<p style="margin-top:8px;">
-<b>Interactive MRI Physics Simulator for Medical Education</b>
+<p style="margin:6px 0 0 0;">
+Interactive MRI Physics Simulator for Medical Education
 </p>
 
 </td>
