@@ -1,13 +1,19 @@
-<br>
+<table>
+<tr>
 
-<img src="DemoImg/MedXina.jpg"
-     width="90"
-     align="left">
-# MRI Learning Studio
+<td width="110" valign="middle">
+<img src="DemoImg/MedXina.jpg" width="90">
+</td>
 
-Interactive MRI Physics Simulator for Medical Education
+<td>
 
-</p>
+<h1>MRI Learning Studio</h1>
+<p><b>Interactive MRI Physics Simulator for Medical Education</b></p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
