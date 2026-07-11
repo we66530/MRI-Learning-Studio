@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="DemoImg/MedXina.png" width="90" align="left">
+  <img src="DemoImg/MedXina.jpg" width="90" align="left">
 
 # MRI Learning Studio
 
