@@ -1,5 +1,3 @@
-# MRI-Learning-Studio
-Interactive MRI Physics Simulator for Medical Education
 <p align="center">
   <img src="DemoImg/MedXina.png" width="90" align="left">
 
