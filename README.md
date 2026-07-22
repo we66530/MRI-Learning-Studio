@@ -78,7 +78,14 @@ Future lessons can be added by simply placing new Python scripts inside the `les
 ## Current Lessons
 
 - 01 – MRI Fundamentals: Coils and Magnetization
-
+- 02_01 – MRI T1 T2 Receiver Detection
+- 02_02 – MRI T2 T2Star And Spin Echo Refocusing
+- 02_03 – MRI T2 T2Star Dephasing Runner Analogy
+- 02_04 – MRI 180 Degree RF Pulse Spin Echo Vs Inversion Recovery
+- 02_05 – MRI Spin Echo Family Sequence Comparison
+- 02_06 – MRI T1 Saturation And Inversion Recovery
+- 02_07 – MRI Short Vs Long TR T1 Tissue Contrast
+- 02_08 – MRI TI TR TE Tissue Nulling And Contrast
 More lessons will be added in future updates.
 
 ---
